@@ -1,5 +1,5 @@
 # Tax
-This file is used to calculate how much you will have to pay given your taxes, **assuming** you're in the single tax bracket.
+This file is used to calculate how much an individual will have to pay given their income, and **assuming** they're in the single tax bracket.
 
 ## Tax Bracket
 
@@ -12,4 +12,5 @@ This file is used to calculate how much you will have to pay given your taxes, *
 | 33%      | $190,151 – $413,350   |
 | 35%      | $413,351 – $415,050   |
 | 39.6%    | $415,051+             |
+
 
